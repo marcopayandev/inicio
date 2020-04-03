@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Minimal Startpage
+Template for a minimalistic startpage with a search bar, clock, and space for a lot of links that can be categorized. Made with HTML, CSS, and Javascript (no plugins).
 
-You can use the [editor on GitHub](https://github.com/payandeveloper/vpdev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <a href="https://github.com/pedro-pablo/minimal-startpage-template/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/pedro-pablo/minimal-startpage-template.svg" /></a>
+  <img src="https://img.shields.io/github/repo-size/pedro-pablo/minimal-startpage-template.svg" alt="Repo size" />
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/payandeveloper/vpdev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Features
+* Responsive and mobile friendly
+* Easy to customize
+* Quick navigation
+* Fast to load
+* No visual clutter
+* Works without Javascript
